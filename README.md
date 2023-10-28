@@ -34,18 +34,3 @@ This Python script creates a web application for visualizing and analyzing stock
 2. Install the required libraries (Streamlit, yfinance, prophet, plotly, yahoo_fin, pandas, numpy, matplotlib) using `pip install -r requirements.txt`.
 3. Run the script using `streamlit run FINALPROJECT.py`.
 4. Input the stock ticker symbol and select the desired tab for analysis.
-
-## Screenshots:
-
-![Screenshot1](/screenshots/screenshot1.png)
-
-![Screenshot2](/screenshots/screenshot2.png)
-
-## Note:
-
-- Ensure you have an active internet connection to fetch stock data from Yahoo Finance.
-- This app is intended for educational and informational purposes only. It is not financial advice.
-
----
-
-*Note: Replace `/screenshots/screenshot1.png` and `/screenshots/screenshot2.png` with the actual paths to your screenshots, if applicable.*
